@@ -13,19 +13,9 @@ body {
 main {
   text-align: center;
 }
-<<<<<<< HEAD
-
-button {
-  background-color: blue;
-  color: white;
-  margin: 10px;
-  padding: 8px;
-  border-radius: 8px;
-=======
 #datetime {
   background-color: white;
   width: 300px;
   margin: auto;
   border: 1px solid grey;
->>>>>>> c3247ebebb6be9ec51128c8d3e2fb8bf172bebfb
 }
